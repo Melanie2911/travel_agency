@@ -1,4 +1,4 @@
-package fr.lernejo.prediction;
+package fr.lernejo.prediction.exceptions;
 
 public class UnknownCountryException extends RuntimeException {
     public UnknownCountryException(String country) {
